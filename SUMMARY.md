@@ -1,8 +1,7 @@
 # Summary
 
-* [Introduction](README.md)
-
 ## Introduction
+* [Introduction](README.md)
 
 ## Setting up the Environment
 
