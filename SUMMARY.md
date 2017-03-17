@@ -1,11 +1,12 @@
 # Summary
 
+* [Introduction](README.md)
+
+## Introduction
+
+## Setting up the Environment
+
 ## Using the Tools
 
-* [Introduction](README.md)
 * [How do I use TaskWarrior?](first-question.md)
-
-## Part 2
-
 * [How can I do X?](second-question.md)
-
