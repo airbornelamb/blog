@@ -1,9 +1,9 @@
 # Summary
 
-## Part 1
+## Using the Tools
 
 * [Introduction](README.md)
-* [What is XYZ?](first-question.md)
+* [How do I use TaskWarrior?](first-question.md)
 
 ## Part 2
 
