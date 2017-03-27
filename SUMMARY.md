@@ -12,3 +12,7 @@
 
 * [How do I use TaskWarrior?](first-question.md)
 
+## Seminary Papers
+
+
+
