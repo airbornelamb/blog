@@ -14,5 +14,5 @@
 
 ## Seminary Papers
 
-
+* Contrasting Views of Fatherhood
 
