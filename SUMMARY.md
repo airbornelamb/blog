@@ -14,5 +14,5 @@
 
 ## Seminary Papers
 
-* Contrasting Views of Fatherhood
+* [Contrasting Views of Fatherhood](seminary-papers/contrasting-views-of-fatherhood.md)
 
