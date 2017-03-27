@@ -1,5 +1,5 @@
 {
-    "plugins": ["algolia", "theme-faq"],
+    "plugins": ["-search", "algolia", "theme-faq"],
     "pluginsConfig": {
         "algolia": {
             "index": "techiepastor",
