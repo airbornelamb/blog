@@ -15,6 +15,7 @@
 ## Seminary Papers
 
 * [Contrasting Views of Fatherhood](seminary-papers/contrasting-views-of-fatherhood.md)
+* [Comparison of Laws in the Ancient Near East with the Pentateuch](comparison-of-laws-in-the-ancient-near-east-with-the-pentateuch.md)
 * [Puritan Views on Church Discipline and Forgiveness](puritan-views-on-church-discipline-and-forgiveness.md)
 * [Spiritual Warfare in John, Ephesians, and Revelation](spiritual-warfare-in-john-ephesians-and-revelation.md)
 * [Leadership Models](leadership-models.md)
