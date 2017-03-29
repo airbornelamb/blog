@@ -14,6 +14,8 @@
 
 ## Seminary Papers
 
+* [Creating Reformed Evangelistic Tracts](creating-reformed-evangelistic-tracts.md)
+* [God’s Goodness Revealed in Creation](gods-goodness-revealed-in-creation.md)
 * [George Gillespie’s View of Church and State](george-gillespies-view-of-church-and-state.md)
 * [Contrasting Views of Fatherhood](seminary-papers/contrasting-views-of-fatherhood.md)
 * [Four Views on Hell](four-views-on-hell.md)
