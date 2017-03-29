@@ -15,6 +15,7 @@
 ## Seminary Papers
 
 * [Contrasting Views of Fatherhood](seminary-papers/contrasting-views-of-fatherhood.md)
+* [A Wicked King Found Wanting](seminary-papers/a-wicked-king-found-wanting.md)
 * [Counsel in the Wake of Massacre](counsel-in-the-wake-of-massacre.md)
 * [Comparison of Laws in the Ancient Near East with the Pentateuch](comparison-of-laws-in-the-ancient-near-east-with-the-pentateuch.md)
 * [Puritan Views on Church Discipline and Forgiveness](puritan-views-on-church-discipline-and-forgiveness.md)
