@@ -14,6 +14,7 @@
 
 ## Seminary Papers
 
+* [George Gillespie’s View of Church and State](george-gillespies-view-of-church-and-state.md)
 * [Contrasting Views of Fatherhood](seminary-papers/contrasting-views-of-fatherhood.md)
 * [Four Views on Hell](four-views-on-hell.md)
 * [Edwards and Bunyan on Conversion in the Ordo Salutis](edwards-and-bunyan-on-conversion-in-the-ordo-salutis.md)
