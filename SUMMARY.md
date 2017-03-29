@@ -3,7 +3,6 @@
 ## Introduction
 
 * [Introduction](README.md)
-* [Persecution and PTSD: How the Ancient Church Fathers can Help Us](persecution-and-ptsd-how-the-ancient-church-fathers-can-help-us.md)
 
 ## Setting up the Environment
 
@@ -16,4 +15,7 @@
 ## Seminary Papers
 
 * [Contrasting Views of Fatherhood](seminary-papers/contrasting-views-of-fatherhood.md)
+* [Leadership Models](leadership-models.md)
+* [Persecution and PTSD: How the Ancient Church Fathers can Help Us](persecution-and-ptsd-how-the-ancient-church-fathers-can-help-us.md)
+* [Kinsman Redeemer in the Old Testament](kinsman-redeemer-in-the-old-testament.md)
 
