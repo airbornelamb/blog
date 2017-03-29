@@ -1,4 +1,4 @@
-[]{#intro .anchor}Puritan Reformed Theological Seminary
+Puritan Reformed Theological Seminary
 
 **Marital Conflict and Abuse**
 
