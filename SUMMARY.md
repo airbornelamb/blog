@@ -3,6 +3,7 @@
 ## Introduction
 
 * [Introduction](README.md)
+* [Persecution and PTSD: How the Ancient Church Fathers can Help Us](persecution-and-ptsd-how-the-ancient-church-fathers-can-help-us.md)
 
 ## Setting up the Environment
 
