@@ -4,12 +4,9 @@
 
 * [Introduction](README.md)
 
-## Setting up the Environment
+## Agenda Maker
 
 * [How do I set up Git?](agendamaker/second-question.md)
-
-## Using the Tools
-
 * [How do I use TaskWarrior?](agendamaker/first-question.md)
 
 ## Seminary Papers
