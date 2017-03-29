@@ -6,12 +6,10 @@
 
 ## Agenda Maker
 
-* [How do I set up Git?](agendamaker/second-question.md)
-* [How do I use TaskWarrior?](agendamaker/first-question.md)
-
 ## How do I?
 
-
+* [How do I set up Git?](agendamaker/second-question.md)
+* [How do I use TaskWarrior?](agendamaker/first-question.md)
 
 ## Seminary Papers
 
