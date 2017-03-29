@@ -3,6 +3,7 @@
 ## Introduction
 
 * [Introduction](README.md)
+* [Spiritual Warfare in John, Ephesians, and Revelation](spiritual-warfare-in-john-ephesians-and-revelation.md)
 
 ## Setting up the Environment
 
