@@ -8,6 +8,9 @@ Joshua Lamb
 
 March 3, 2017
 
+* TOC
+{:toc}
+
 Intro {#intro-1}
 =====
 
