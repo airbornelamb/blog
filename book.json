@@ -1,5 +1,5 @@
 {
-    "plugins": ["algolia", "theme-faq", "gitbook-plugin-summary"],
+    "plugins": ["algolia", "theme-faq", "summary"],
     "pluginsConfig": {
         "algolia": {
             "index": "techiepastor",
