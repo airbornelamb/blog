@@ -2,9 +2,9 @@
 
 ## Introduction
 
-* [Introduction](index.md)
+* [Introduction](README.md)
 
-## Agenda Maker
+# Agenda Maker
 
 * [Introduction](agendamaker/index.md)
 
