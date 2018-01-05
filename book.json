@@ -1,13 +1,8 @@
 {
-    "plugins": ["disqus", "auto-summary"],
+    "plugins": ["disqus", "summary"],
     "pluginsConfig": {
         "disqus": {
             "shortName": "techie-pastor"
-        },
-        "auto-summary": {
-          "parts": {
-            "1-AgendaMaker/**/*.md": "Agenda Maker"
-          }
         }
     }
 }
