@@ -1,8 +1,13 @@
 {
-    "plugins": ["disqus", "summary"],
+    "plugins": ["disqus", "auto-summary"],
     "pluginsConfig": {
         "disqus": {
             "shortName": "techie-pastor"
+        },
+        "auto-summary": {
+          "parts": {
+            "README.md": "Part I"
+          }
         }
     }
 }
