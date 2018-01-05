@@ -2,10 +2,10 @@
 
 
 * [Agenda Maker](agendamaker/README.md)
-* [How do I?](howdoi/index.md)
+* [How do I?](howdoi/README.md)
   * [How do I use TaskWarrior?](howdoi/usingtaskwarrior.md)
-* [Sermons](sermons/index.md)
-* [Seminary Papers](seminary-papers/index.md)
+* [Sermons](sermons/README.md)
+* [Seminary Papers](seminary-papers/README.md)
   * [Marital Conflict and Abuse](seminary-papers/maritalconflictabusefinal.md)
   * [Creating Reformed Evangelistic Tracts](seminary-papers/creating-reformed-evangelistic-tracts.md)
   * [God’s Goodness Revealed in Creation](seminary-papers/gods-goodness-revealed-in-creation.md)
