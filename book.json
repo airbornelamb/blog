@@ -1,11 +1,13 @@
 {
-    "plugins": ["algolia", "theme-faq", "summary"],
+    "plugins": ["disqus", "auto-summary"],
     "pluginsConfig": {
-        "algolia": {
-            "index": "techiepastor",
-            "applicationID": "WXAHWWKE0J",
-            "publicKey": "20db786e62c69e932915dba3788f52d6",
-            "freeAccount": "true"
+        "disqus": {
+            "shortName": "techie-pastor"
+        },
+        "auto-summary": {
+          "parts": {
+            "1-AgendaMaker/**/*.md": "Agenda Maker"
+          }
         }
     }
 }
