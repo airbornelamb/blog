@@ -1,3 +1,7 @@
+---
+disqus: false
+---
+
 # Agenda Maker
 
 This is a long project I developed over the course of over a year to wrap all of the essential productivity needs of a Pastor (or anyone really) into one document. I began thinking about how paper is a much better medium for productivity than computers because paper is far less distracting. I sought to come up with a system that provides all the benefits of technology to the medium of paper.

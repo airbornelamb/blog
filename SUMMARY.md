@@ -2,18 +2,24 @@
 
 ## Introduction
 
-* [Introduction](README.md)
+* [Introduction](index.md)
 
 ## Agenda Maker
 
+* [Introduction](agendamaker/index.md)
+
 ## How do I?
 
+* [Introduction](howdoi/index.md)
 * [How do I use TaskWarrior?](howdoi/usingtaskwarrior.md)
 
 ## Sermons
 
+* [Introduction](sermons/index.md)
+
 ## Seminary Papers
 
+* [Introduction](seminary-papers/index.md)
 * [Marital Conflict and Abuse](seminary-papers/maritalconflictabusefinal.md)
 * [Creating Reformed Evangelistic Tracts](seminary-papers/creating-reformed-evangelistic-tracts.md)
 * [God’s Goodness Revealed in Creation](seminary-papers/gods-goodness-revealed-in-creation.md)
