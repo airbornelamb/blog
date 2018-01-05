@@ -1,6 +1,4 @@
----
-disqus: false
----
+
 
 # My Sermons
 
