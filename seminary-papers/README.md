@@ -1,6 +1,4 @@
----
-disqus: false
----
+
 
 # Seminary Papers
 
