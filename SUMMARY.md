@@ -1,23 +1,21 @@
 # Summary
 
-## Introduction
-
 * [Introduction](README.md)
 
 # Agenda Maker
 
 * [Introduction](agendamaker/index.md)
 
-## How do I?
+# How do I?
 
 * [Introduction](howdoi/index.md)
 * [How do I use TaskWarrior?](howdoi/usingtaskwarrior.md)
 
-## Sermons
+# Sermons
 
 * [Introduction](sermons/index.md)
 
-## Seminary Papers
+# Seminary Papers
 
 * [Introduction](seminary-papers/index.md)
 * [Marital Conflict and Abuse](seminary-papers/maritalconflictabusefinal.md)
